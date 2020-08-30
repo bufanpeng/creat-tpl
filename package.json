@@ -1,0 +1,36 @@
+{
+    "name": "creattemplate",
+    "version": "0.0.7",
+    "description": "a js creat file template",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "creattemplate": "main.js"
+    },
+    "keywords": [
+        "creat",
+        "file",
+        "template",
+        "creat-template",
+        "creat-react-ts-tempalte",
+        "creat-ts",
+        "creat-react"
+    ],
+    "author": {
+        "name": "fanpeng.bu",
+        "email": "226972848@qq.com"
+    },
+    "license": "ISC",
+    "src": "src",
+    "dependencies": {
+        "chokidar": "^3.4.2",
+        "commander": "^5.1.0",
+        "shelljs": "^0.8.4",
+        "handlebars": "^4.7.6",
+        "inquirer": "^7.2.0",
+        "log-symbols": "^4.0.0",
+        "ora": "^4.0.4"
+    }
+}
